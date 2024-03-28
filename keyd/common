@@ -1,0 +1,21 @@
+[main]
+capslock = layer(control)
+
+[control]
+esc = `
+
+[shift]
+esc = ~
+
+[alt]
+backspace = delete
+h = left
+j = down
+k = up
+l = right
+
+[control+shift]
+h = C-left
+j = C-down
+k = C-up
+l = C-right
